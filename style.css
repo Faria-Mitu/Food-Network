@@ -1,0 +1,90 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin:0px;
+   
+    
+}
+h1{
+    font-size:50px;
+
+}
+.orange-color{
+    color:orange;
+}
+.link-button{
+    background-image: linear-gradient(to right, orange,red);
+    text-decoration: none;
+    padding:10px 30px;
+    color: white;
+    font-weight: 700;
+    border-radius: 25px;
+}
+.container{
+    display: flex;
+}
+.half-width{
+    width: 60%;
+}
+.diet{
+    padding-top: 10%;
+}
+.top-banner{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    
+
+
+    
+}
+.left-banner{
+    padding-left:5%;
+}
+.grey{
+    color: rgb(109, 105, 105);
+
+
+}
+.about-me{
+    width: 50%;
+    padding:10%
+    
+}
+.me img{
+    width:51%;
+    padding-left: 28%;
+    padding-top: 5%;
+    
+}
+.center{
+    text-align: center;
+}
+.recipe{
+    display: inline-block;
+    width: 25%;
+    background-color: burlywood;
+    /* border: 5px solid crimson; */
+   border-radius:25px;
+    margin: 15px;
+    padding: 25px;
+}
+.recipe img{
+    width: 100%;
+   border-radius: 25px;
+}
+footer{
+   
+    background-color: black;
+    text-align: center;
+
+
+}
+.bottom{
+  box-shadow: 10px 10px 25px;
+    width:80%;
+    
+   
+
+}
+.size{
+    width:50%;
+}
